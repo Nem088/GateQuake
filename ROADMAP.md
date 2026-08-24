@@ -34,7 +34,7 @@ Channels are being set up. Links go here as they open:
 | | |
 |---|---|
 | **X / Twitter** | `[COMING SOON]` |
-| **Reddit** | [r/GateQuake](https://www.reddit.com/r/GateQuake/) |
+| **Reddit** | `[COMING SOON]` |
 | **Discord** | `[COMING SOON]` |
 
 Until those are live, there is no official GateQuake community

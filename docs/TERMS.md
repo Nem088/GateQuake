@@ -179,7 +179,17 @@ any minimum withdrawal.
 notice. If we do, we will provide a period during which remaining
 legitimate balances can be withdrawn.
 
-## 7. Availability
+## 7. Availability and beta status
+
+7.0 **The Service is currently in beta.** It is feature-complete and
+paid matches settle, but it has not been operated at scale with a large
+player population. You should expect defects, interruptions, and changes
+to features and rules at shorter notice than a mature service would
+give. Do not stake more than you would be comfortable losing to a bug.
+
+This does not reduce our obligation to pay out matches correctly or to
+honour withdrawals. Where a fault of ours causes an incorrect result or
+balance, section 4.5 applies and we will correct it.
 
 7.1 The Service is provided on an "as is" and "as available" basis. We
 do not warrant that it will be uninterrupted, timely, error-free or free

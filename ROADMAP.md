@@ -2,13 +2,30 @@
 
 Where things are, and what is next. Updated as things land.
 
-## Now — pre-launch
+## Now — beta
 
-GateQuake is live and playable at [gatequake.com](https://gatequake.com).
-The Practice gate is open to everyone, free, no wallet required.
+GateQuake is playable at [gatequake.com](https://gatequake.com) and is
+**in beta**. The Practice gate is open to everyone, free, no wallet
+required.
 
-Paid gates are functional and settle correctly. We are being deliberate
-about opening them widely rather than rushing a launch.
+Paid gates are functional and settle correctly. What they have not had
+is a crowd. Everything so far has been verified by us and by automated
+tests — which catches a great deal, and never catches everything a real
+population does in the first week.
+
+So we are calling it beta and behaving accordingly: opening slowly,
+watching closely, and fixing fast. Start on the small tiers.
+
+**What beta does not mean here:** it does not mean your money is
+provisional. Pots settle in full, refunds work, withdrawals work. If a
+bug of ours ever costs you money, we will make you whole — tell us.
+
+### Leaving beta
+
+We will drop the label when there is a steady player base, paid matches
+have run at volume across tiers without incident, and the issues a real
+crowd surfaces have been fixed. No fixed date; it depends on players
+arriving, not on a calendar.
 
 ## Community
 

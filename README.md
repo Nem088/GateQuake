@@ -5,6 +5,10 @@
 <h1 align="center">GateQuake</h1>
 
 <p align="center">
+  <img src="images/badge-beta.svg" width="72" height="22" alt="Status: Beta">
+</p>
+
+<p align="center">
   <b>Last one standing takes the whole pot.</b><br>
   A browser battle royale played for real stakes on Solana.
 </p>
@@ -12,6 +16,16 @@
 <p align="center">
   <a href="https://gatequake.com"><b>Play at gatequake.com</b></a>
 </p>
+
+> **GateQuake is in beta.** The game is feature-complete and paid
+> matches settle correctly, but it has not yet been played at scale by a
+> real population. Expect rough edges, expect us to be fixing things,
+> and **stake accordingly** — small tiers first. We will drop the beta
+> label once there is a steady player base and the bugs a real crowd
+> finds have been fixed.
+>
+> Practice is free and unaffected. If you find a bug, please tell us —
+> see [reporting](docs/SECURITY.md#reporting-a-problem).
 
 ---
 

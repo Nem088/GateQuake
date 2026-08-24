@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="22" viewBox="0 0 72 22" role="img" aria-label="Status: Beta">
+  <title>Status: Beta</title>
+  <rect x="0.5" y="0.5" width="71" height="21" rx="3.5"
+        fill="#14161D" stroke="#C98A4B" stroke-opacity="0.55"/>
+  <text x="36" y="15"
+        font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace"
+        font-size="10" font-weight="600" letter-spacing="2.4"
+        fill="#C98A4B" text-anchor="middle">BETA</text>
+</svg>

@@ -106,7 +106,7 @@ Honesty cuts both ways. These are real, and we cannot fix them for you:
 Found a security issue, a bug that affects fairness, or anything that
 moves money incorrectly?
 
-**Contact:** `[SECURITY CONTACT EMAIL]`
+**Contact:** **support@gatequake.com** (subject line starting "SECURITY:")
 
 Tell us what you found and how to reproduce it. Please give us a
 reasonable chance to fix it before making it public. We will not

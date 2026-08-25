@@ -33,6 +33,6 @@ the limited attribution use described above.
 ## Corrections
 
 If something on these pages is wrong, out of date, or contradicts what
-the game actually does, tell us at `[SUPPORT EMAIL]` and we will fix it.
+the game actually does, tell us at **support@gatequake.com** and we will fix it.
 The game's behaviour is what matters; these pages exist to describe it
 accurately.

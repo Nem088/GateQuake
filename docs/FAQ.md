@@ -57,9 +57,9 @@ you will be at a real disadvantage. Practice is free — try before you
 stake anything.
 
 **Someone is cheating.**
-Tell us: `[SUPPORT EMAIL]`. Include the gate, roughly when, and the
+Tell us: **support@gatequake.com**. Include the gate, roughly when, and the
 name. See [Fair play & security](SECURITY.md).
 
 **How do I take a break or close my account?**
-Email `[SUPPORT EMAIL]`. See
+Email **support@gatequake.com**. See
 [Responsible play](RESPONSIBLE_PLAY.md#taking-a-break).

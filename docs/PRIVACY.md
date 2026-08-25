@@ -2,7 +2,7 @@
 
 **Last updated:** `[DATE]`
 **Controller:** `[LEGAL ENTITY NAME]`, `[REGISTERED ADDRESS]`
-**Contact:** `[PRIVACY CONTACT EMAIL]`
+**Contact:** **support@gatequake.com** (subject line starting "PRIVACY:")
 
 > Published ahead of general launch. Items in `[BRACKETS]` are being
 > finalised.
@@ -86,7 +86,7 @@ correct, delete, restrict or object to processing of your data, to data
 portability, and to lodge a complaint with your data protection
 authority.
 
-Write to `[PRIVACY CONTACT EMAIL]` and we will respond within the period
+Write to **support@gatequake.com** (subject line starting "PRIVACY:") and we will respond within the period
 the law requires.
 
 **One honest limit:** we may be unable to delete records we are legally

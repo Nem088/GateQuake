@@ -56,7 +56,7 @@ a large one.
 ## Taking a break
 
 Want to lock yourself out for a while, or permanently? Contact us at
-`[SUPPORT EMAIL]` and say so. We will close your access. Tell us how
+**support@gatequake.com** and say so. We will close your access. Tell us how
 long, and we will hold you to it.
 
 You do not need to justify the request and we will not try to talk you

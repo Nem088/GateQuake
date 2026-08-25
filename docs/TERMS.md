@@ -2,7 +2,7 @@
 
 **Last updated:** `[DATE]`
 **Operator:** `[LEGAL ENTITY NAME]`, `[REGISTERED ADDRESS]`
-**Contact:** `[SUPPORT EMAIL]`
+**Contact:** **support@gatequake.com**
 
 > These terms are published ahead of general launch. Items in
 > `[BRACKETS]` are being finalised and will be completed before paid
@@ -169,7 +169,7 @@ reason. You may dispute a decision under section 11.
 these Terms, suspected unlawful activity, or where required by law.
 
 6.2 You may stop using the Service at any time and request closure at
-`[SUPPORT EMAIL]`.
+**support@gatequake.com**.
 
 6.3 On termination other than for breach of section 5, you may withdraw
 any remaining legitimate balance, subject to sections 3.7 and 3.8 and to
@@ -247,7 +247,7 @@ any law or third-party right.
 
 ## 11. Complaints and disputes
 
-11.1 Contact us first at `[SUPPORT EMAIL]` with the detail of your
+11.1 Contact us first at **support@gatequake.com** with the detail of your
 complaint. We aim to acknowledge within `[N]` business days and to
 resolve within `[N]` days.
 

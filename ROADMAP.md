@@ -33,7 +33,7 @@ Channels are being set up. Links go here as they open:
 
 | | |
 |---|---|
-| **X / Twitter** | `[COMING SOON]` |
+| **X / Twitter** | [@GateQuake_BR](https://x.com/GateQuake_BR) |
 | **Reddit** | `[COMING SOON]` |
 | **Discord** | `[COMING SOON]` |
 

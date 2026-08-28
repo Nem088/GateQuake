@@ -29,16 +29,17 @@ arriving, not on a calendar.
 
 ## Community
 
-Channels are being set up. Links go here as they open:
-
 | | |
 |---|---|
+| **Discord** | [discord.gg/jaAe4VPN5X](https://discord.gg/jaAe4VPN5X) |
 | **X / Twitter** | [@GateQuake_BR](https://x.com/GateQuake_BR) |
-| **Reddit** | `[COMING SOON]` |
-| **Discord** | `[COMING SOON]` |
 
-Until those are live, there is no official GateQuake community
-anywhere. If you find one, it is not ours.
+Those two are the only official GateQuake community channels. There is
+no official Reddit, Telegram or anything else. If you find one, it is
+not ours.
+
+The Discord has a full manual in it: controls, all four weapons with
+real damage numbers, the pods, the quake, and how the money works.
 
 > **On scams.** We have no token, no NFT, no presale, no airdrop and no
 > investment round. Anyone offering you any of those in our name is
@@ -48,7 +49,7 @@ anywhere. If you find one, it is not ours.
 
 ## Next
 
-- Community channels opening.
+- Growing the Discord enough to run a real tournament.
 - Wider testing of the paid gates.
 - Tournament schedule once the population supports it.
 

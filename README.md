@@ -87,6 +87,7 @@ Solana address you control.
 |---|---|
 | [How to play](docs/HOW_TO_PLAY.md) | Controls, gates, and how a match runs |
 | [Match rules](docs/RULES.md) | Payouts, disconnects, refunds, gate requirements |
+| [How we keep it fair](docs/FAIRNESS.md) | What the server decides, what it checks, what it only watches, and what we cannot promise |
 | [Fair play & security](docs/SECURITY.md) | How results are decided and how funds are handled |
 | [Responsible play](docs/RESPONSIBLE_PLAY.md) | **Real money. 18+. Read this one.** |
 | [FAQ](docs/FAQ.md) | Short answers to the common questions |

@@ -3,7 +3,8 @@
 Real money is involved, so you deserve straight answers about how
 results are decided and how funds are handled. This page gives them,
 without publishing the kind of detail that would help someone attack
-the game.
+the game. For the plain-words walk through what the server decides,
+checks and only watches, start with [How we keep it fair](FAIRNESS.md).
 
 ## The server decides everything
 

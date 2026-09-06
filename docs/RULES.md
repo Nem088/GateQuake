@@ -37,6 +37,13 @@ your buy-in intact. Miss it and you are treated as having left.
 Reconnecting **never charges you twice**. The server knows you already
 paid into that match.
 
+## One wallet, one fighter
+
+A wallet can have one fighter in a paid match. A second tab or device
+using the same wallet is turned away from that room with a message
+saying so; if the first one dropped, wait for its reconnect window to
+pass and enter again. Your buy-in is only ever taken once.
+
 ## Winning
 
 The last fighter alive takes the **entire pot**. There is no rake on the

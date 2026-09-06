@@ -111,7 +111,9 @@ match is between real players' wallets.
 ## Same rules for everyone
 
 Matches are made by gate, not by rating: whoever walks into a gate is
-in that room. Progression toward the tournament and VIP gates only
+in that room. A wallet can have one fighter in a paid match; a second
+tab of the same wallet is turned away, so nobody plays two bodies for
+one stake. Progression toward the tournament and VIP gates only
 counts from matches with at least three different paying wallets, which
 is the one anti-collusion rule we publish because it changes how you
 play. Your pot is never affected by it; see

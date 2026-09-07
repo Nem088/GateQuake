@@ -1,6 +1,6 @@
 # Copyright & use
 
-Copyright © 2026 `[LEGAL ENTITY NAME]`. All rights reserved.
+Copyright © 2026 `GateQuake`. All rights reserved.
 
 This repository contains **documentation and media only**. It is
 published so that players can read the rules, the terms and the
@@ -27,7 +27,7 @@ is published here.
 ## Trade marks
 
 "GateQuake", the GateQuake logo and the gate marks are trade marks of
-`[LEGAL ENTITY NAME]`. Nothing here grants a licence to use them beyond
+`GateQuake`. Nothing here grants a licence to use them beyond
 the limited attribution use described above.
 
 ## Corrections

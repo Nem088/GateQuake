@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Last updated:** `[DATE]`
-**Controller:** `[LEGAL ENTITY NAME]`, `[REGISTERED ADDRESS]`
+**Controller:** `GateQuake`   **Contact:** admin@gatequake.com
 **Contact:** **support@gatequake.com** (subject line starting "PRIVACY:")
 
 > Published ahead of general launch. Items in `[BRACKETS]` are being

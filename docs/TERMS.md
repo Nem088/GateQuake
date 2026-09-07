@@ -1,7 +1,7 @@
 # Terms & Conditions
 
 **Last updated:** `[DATE]`
-**Operator:** `[LEGAL ENTITY NAME]`, `[REGISTERED ADDRESS]`
+**Operator:** `GateQuake`   **Contact:** admin@gatequake.com
 **Contact:** **support@gatequake.com**
 
 > These terms are published ahead of general launch. Items in
@@ -172,7 +172,7 @@ or service.
 we may use them without restriction or obligation to you.
 
 5.6 **Reporting infringement.** To report copying of the Content or
-misuse of our marks, contact support@gatequake.com.
+misuse of our marks, contact admin@gatequake.com.
 
 ## 6. Prohibited conduct
 

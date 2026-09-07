@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**Last updated:** `[DATE]`
-**Controller:** `GateQuake`   **Contact:** admin@gatequake.com
-**Contact:** **support@gatequake.com** (subject line starting "PRIVACY:")
+**Last updated:** 8 September 2026
+**Controller:** `GateQuake`
+**Contact:** admin@gatequake.com, or **support@gatequake.com** with a
+subject line starting "PRIVACY:"
 
-> Published ahead of general launch. Items in `[BRACKETS]` are being
-> finalised.
+> Published ahead of general launch.
 
 ## What we collect
 
@@ -76,7 +76,9 @@ privacy, understand this before you deposit.
 
 Financial and match records are kept for as long as required by
 applicable law — typically several years — and to resolve disputes.
-Technical logs are kept for a shorter period, `[RETENTION PERIOD]`.
+Technical logs are kept for a shorter period: only as long as we need
+them for security, debugging and abuse investigation, and routinely
+deleted after that.
 Where we no longer need data we delete or anonymise it.
 
 ## Your rights

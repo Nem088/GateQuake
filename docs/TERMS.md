@@ -1,12 +1,10 @@
 # Terms & Conditions
 
-**Last updated:** `[DATE]`
-**Operator:** `GateQuake`   **Contact:** admin@gatequake.com
-**Contact:** **support@gatequake.com**
+**Last updated:** 8 September 2026
+**Operator:** `GateQuake`
+**Contact:** admin@gatequake.com, or **support@gatequake.com**
 
-> These terms are published ahead of general launch. Items in
-> `[BRACKETS]` are being finalised and will be completed before paid
-> play is opened to the public.
+> These terms are published ahead of general launch.
 
 By accessing gatequake.com or playing GateQuake ("the Service"), you
 agree to these Terms. If you do not agree, do not use the Service.
@@ -27,8 +25,11 @@ We do not provide legal advice and cannot assess your situation. If you
 are unsure, do not deposit.
 
 1.4 The Service is **not available** to persons located in, or resident
-in, `[RESTRICTED JURISDICTIONS]`. We may block access by region and may
-require verification of location or identity at any time.
+in, any country or territory where real-money gaming of this kind is
+prohibited, or where it requires a licence, registration or
+authorisation that we do not hold. It is your responsibility to know
+whether that is the case where you are. We may block access by region
+and may require verification of location or identity at any time.
 
 1.5 You may not use the Service if you are self-excluded from gambling
 services, or if you have previously been banned from the Service.
@@ -174,6 +175,13 @@ we may use them without restriction or obligation to you.
 5.6 **Reporting infringement.** To report copying of the Content or
 misuse of our marks, contact admin@gatequake.com.
 
+5.7 **Authorship and proof of creation.** The Content was created by
+GateQuake. Authorship and creation dates are evidenced by a dated,
+cryptographically hashed record of the entire source tree, published as
+a root hash in [NOTICE.md](../NOTICE.md) and retained in full privately.
+Anyone asserting earlier or independent creation of the Content can be
+tested against that record.
+
 ## 6. Prohibited conduct
 
 6.1 You must not:
@@ -271,9 +279,9 @@ consequential or punitive loss, or for loss of profit, revenue,
 opportunity, data or goodwill, however arising.
 
 10.3 Subject to 9.1, our total aggregate liability arising out of or in
-connection with the Service and these Terms is limited to the **greater
-of (i) the total fees we received from you in the 6 months preceding the
-event giving rise to the claim, and (ii) `[CAP AMOUNT]`**.
+connection with the Service and these Terms is limited to **the total
+fees we received from you in the 6 months preceding the event giving
+rise to the claim**.
 
 10.4 We are not liable for losses arising from your breach of these
 Terms, your failure to secure your wallet, your provision of an
@@ -313,9 +321,9 @@ balance.
 ## 14. General
 
 14.1 **Governing law.** These Terms and any dispute arising from them
-are governed by the laws of `[GOVERNING LAW JURISDICTION]`, and the
-courts of `[COURTS]` have `[exclusive/non-exclusive]` jurisdiction,
-subject to any mandatory consumer protections available to you locally.
+are governed by the laws of the country in which the Operator is
+established, whose courts have non-exclusive jurisdiction, subject to
+any mandatory consumer protections available to you locally.
 
 14.2 **Severability.** If any provision is held unenforceable, the rest
 remains in force.
